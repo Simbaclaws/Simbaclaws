@@ -10,6 +10,8 @@
 # Repo's
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Simbaclaws&repo=color-schemes/milkoutside.nvim&show_owner=true&theme=codeSTACKr)](https://github.com/color-schemes/milkoutside.nvim)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Simbaclaws&repo=libs-vanilla-js/http-client&show_owner=true&theme=codeSTACKr)](https://github.com/color-schemes/milkoutside.nvim)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Simbaclaws&repo=libs-vanilla-js/http-client&show_owner=true&theme=codeSTACKr)](https://github.com/libs-vanilla-js/http-client)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Simbaclaws&repo=libs-vanilla-js/pretty-logger&show_owner=true&theme=codeSTACKr)](https://github.com/color-schemes/milkoutside.nvim)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Simbaclaws&repo=libs-vanilla-js/pretty-logger&show_owner=true&theme=codeSTACKr)](https://github.com/libs-vanilla-js/pretty-logger)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Simbaclaws&repo=libs-vanilla-js/simple-translator&show_owner=true&theme=codeSTACKr)](https://github.com/libs-vanilla-js/simple-translator)
