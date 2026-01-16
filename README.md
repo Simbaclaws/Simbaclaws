@@ -10,3 +10,4 @@
 # Repo's
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Simbaclaws&repo=color-schemes/milkoutside.nvim&show_owner=true&theme=codeSTACKr)](https://github.com/color-schemes/milkoutside.nvim)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Simbaclaws&repo=libs-vanilla-js/http-client&show_owner=true&theme=codeSTACKr)](https://github.com/color-schemes/milkoutside.nvim)
