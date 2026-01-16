@@ -1,8 +1,12 @@
-# Github Stats
-![Simbaclaws's GitHub stats](https://github-readme-stats.vercel.app/api?username=Simbaclaws&show_icons=true&theme=dark)
+# Statistics
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Simbaclaws&rank_icon=github&show_icons=true&include_all_commits=true&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api?username=Simbaclaws&rank_icon=github&show_icons=true&include_all_commits=true&theme=codeSTACKr)
 
 # Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simbaclaws&theme=dark&layout=compact)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Simbaclaws&layout=donut&langs_count=8&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api/top-langs?username=Simbaclaws&layout=donut&langs_count=8&theme=codeSTACKr)
 
-# Top Committed Languages
-![Top Commit Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Simbaclaws&theme=dark)
+# Time Spent
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=ffflabs&layout=compact&custom_title=Time%20Spent%20Stats%20(last%20year)&langs_count=9&theme=codeSTACKr)](https://wakatime.com/@ffflabs)
+
+# Repo's
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Simbaclaws&repo=color-schemes/milkoutside.nvim&show_owner=true&theme=codeSTACKr)](https://github.com/color-schemes/milkoutside.nvim)
+
